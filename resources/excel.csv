@@ -1,0 +1,501 @@
+Policy,Expiry,Location,State,Region,Investment,Construction,BusinessType,Earthquake,Flood,Rating
+100242,2-Jan-21,Urban,Dodoma,East,1617630,Frame,Retail,N,N,9.1
+100314,2-Jan-21,Urban,Kigoma,East,8678500,Fire Resist,Apartment,Y,Y,9.6
+100359,2-Jan-21,Rural,Dodoma,Midwest,2052660,Frame,Farming,N,N,7.4
+100315,3-Jan-21,Urban,Dodoma,East,17580000,Frame,Apartment,Y,Y,8.4
+100385,3-Jan-21,Urban,Iringa,East,1925000,Masonry,Hospitality,N,N,5.3
+100388,4-Jan-21,Urban,Kigoma,Midwest,12934500,Frame,Apartment,Y,Y,4.1
+100358,5-Jan-21,Urban,Dodoma,Midwest,928300,Masonry,Office Bldg,N,N,5.8
+100264,7-Jan-21,Rural,Dodoma,East,2219900,Frame,Farming,N,N,8
+100265,7-Jan-21,Urban,Dodoma,East,14100000,Frame,Apartment,Y,Y,7.2
+100357,8-Jan-21,Urban,Dodoma,East,4762808,Masonry,Other,Y,Y,5.9
+100399,8-Jan-21,Urban,Dodoma,East,13925190,Frame,Apartment,Y,Y,4.5
+100329,9-Jan-21,Urban,Kigoma,East,6350000,Frame,Apartment,Y,Y,6.8
+100429,9-Jan-21,Urban,Dar es Salaam,Midwest,4036000,Masonry,Medical,Y,Y,7.1
+100441,10-Jan-21,Urban,Kigoma,East,472800,Masonry,Retail,Y,Y,8.2
+100442,10-Jan-21,Urban,Dodoma,Midwest,11710880,Masonry,Apartment,Y,Y,5.7
+100372,12-Jan-21,Urban,Kigoma,East,1370300,Frame,Apartment,Y,Y,4.5
+100281,13-Jan-21,Rural,Dodoma,Midwest,1432835,Frame,Farming,N,N,4.6
+100280,15-Jan-21,Urban,Dodoma,East,82000,Masonry,Organization,Y,Y,6.9
+100424,16-Jan-21,Urban,Dodoma,East,192000,Masonry,Retail,N,N,8.6
+100425,16-Jan-21,Urban,Mwanza,East,4950000,Frame,Office Bldg,Y,Y,4.4
+100426,16-Jan-21,Urban,Arusha,Northeast,2432875,Fire Resist,Apartment,N,N,4.8
+100252,17-Jan-21,Urban,Dodoma,Central,1529600,Masonry,Apartment,N,N,5.1
+100279,18-Jan-21,Urban,Dodoma,East,7677000,Frame,Apartment,Y,Y,4.4
+100292,18-Jan-21,Urban,Dodoma,East,13750000,Frame,Apartment,Y,Y,9.9
+100398,18-Jan-21,Rural,Dar es Salaam,East,2529400,Frame,Farming,N,N,6
+100382,19-Jan-21,Urban,Kigoma,East,2328650,Frame,Organization,N,N,8.5
+100461,20-Jan-21,Urban,Dar es Salaam,Midwest,4380200,Masonry,Office Bldg,Y,Y,6.7
+100263,22-Jan-21,Urban,Dodoma,East,2815000,Metal Clad,Apartment,Y,Y,7.7
+100453,22-Jan-21,Urban,Mwanza,East,1177700,Frame,Hospitality,N,N,9.6
+100381,23-Jan-21,Urban,Kigoma,Northeast,7203500,Frame,Office Bldg,Y,Y,7.4
+100275,25-Jan-21,Urban,Dar es Salaam,Midwest,53410614,Frame,Construction,Y,Y,4.8
+100277,25-Jan-21,Urban,Iringa,East,3189300,Masonry,Service,Y,Y,4.5
+100312,25-Jan-21,Rural,Kigoma,Midwest,3145700,Frame,Education,N,N,5.1
+100327,25-Jan-21,Urban,Arusha,Midwest,1451100,Frame,Recreation,N,N,5.1
+100326,26-Jan-21,Urban,Dodoma,Central,1787900,Frame,Office Bldg,N,N,7.5
+100379,26-Jan-21,Urban,Kigoma,East,18777355,Frame,Apartment,Y,Y,6.8
+100310,28-Jan-21,Urban,Dodoma,Midwest,8800000,Fire Resist,Office Bldg,Y,Y,7
+100341,28-Jan-21,Urban,Dodoma,East,1123000,Frame,Office Bldg,Y,Y,4.7
+100289,29-Jan-21,Rural,Dodoma,East,2145420,Frame,Farming,N,N,7.6
+100290,29-Jan-21,Urban,Dodoma,East,18933000,Frame,Office Bldg,Y,Y,7.7
+100291,29-Jan-21,Urban,Dodoma,East,21400000,Fire Resist,Apartment,Y,Y,7.9
+100340,30-Jan-21,Urban,Dodoma,East,3754000,Frame,Office Bldg,Y,Y,6.3
+100415,31-Jan-21,Urban,Dodoma,East,9650000,Frame,Office Bldg,Y,Y,5.6
+100421,31-Jan-21,Urban,Dar es Salaam,East,9503000,Frame,Office Bldg,Y,Y,7.6
+100304,1-Feb-21,Urban,Kigoma,East,1688300,Frame,Hospitality,N,Y,7.2
+100414,2-Feb-21,Urban,Dodoma,Midwest,17856705,Masonry,Apartment,Y,Y,9.5
+100420,2-Feb-21,Urban,Kigoma,East,7577000,Frame,Apartment,Y,Y,8.4
+100481,2-Feb-21,Urban,Dar es Salaam,Midwest,1990915,Masonry,Office Bldg,N,N,4.1
+100352,3-Feb-21,Urban,Iringa,East,1245000,Frame,Hospitality,Y,Y,8.1
+100496,4-Feb-21,Urban,Kigoma,Midwest,1895000,Masonry,Office Bldg,N,N,7.9
+100309,5-Feb-21,Urban,Dodoma,Midwest,5000368,Masonry,Manufacturing,N,N,9.5
+100413,5-Feb-21,Urban,Dar es Salaam,East,8397700,Frame,Apartment,Y,Y,8.5
+100498,6-Feb-21,Urban,Dar es Salaam,East,36356000,Fire Resist,Apartment,Y,Y,6.5
+100499,7-Feb-21,Urban,Arusha,East,16932600,Fire Resist,Apartment,Y,Y,6.1
+100509,7-Feb-21,Urban,Arusha,Central,1849000,Metal Clad,Retail,N,N,6.5
+100371,8-Feb-21,Urban,Dar es Salaam,Central,218490,Frame,Apartment,N,N,8.2
+100412,8-Feb-21,Urban,Kigoma,East,3052600,Frame,Apartment,Y,N,5.8
+100370,9-Feb-21,Urban,Dodoma,Midwest,8126500,Masonry,Organization,Y,Y,6.6
+100377,9-Feb-21,Urban,Dar es Salaam,East,11400000,Masonry,Apartment,Y,Y,5.4
+100452,9-Feb-21,Urban,Dodoma,East,5918400,Frame,Farming,Y,N,9.3
+100459,9-Feb-21,Rural,Dodoma,East,2550750,Frame,Farming,N,N,10
+100325,13-Feb-21,Urban,Dodoma,East,140000,Masonry,Retail,N,N,7
+100419,13-Feb-21,Urban,Dodoma,East,725000,Masonry,Service,N,N,10
+100512,13-Feb-21,Urban,Dodoma,East,10098900,Frame,Office Bldg,Y,Y,8.6
+100513,13-Feb-21,Rural,Dar es Salaam,East,2937200,Frame,Farming,N,N,7.6
+100514,13-Feb-21,Urban,Dodoma,East,3644800,Frame,Apartment,Y,Y,5.8
+100471,15-Feb-21,Urban,Dodoma,East,13882500,Frame,Apartment,Y,Y,6.7
+100396,16-Feb-21,Rural,Dodoma,East,2050000,Frame,Farming,N,N,9.9
+100436,17-Feb-21,Rural,Dodoma,East,3805200,Metal Clad,Farming,N,N,6.4
+100492,18-Feb-21,Rural,Kigoma,East,1417800,Frame,Organization,N,N,4.3
+100494,18-Feb-21,Rural,Dar es Salaam,Midwest,5613900,Masonry,Farming,N,N,9.6
+100493,19-Feb-21,Urban,Mwanza,East,2471100,Frame,Farming,N,N,5.9
+100351,20-Feb-21,Rural,Kigoma,Northeast,2985950,Frame,Farming,N,N,4
+100411,20-Feb-21,Urban,Dodoma,Midwest,9062700,Fire Resist,Hospitality,N,N,8.7
+100469,21-Feb-21,Urban,Dar es Salaam,East,7350000,Frame,Apartment,Y,Y,9.4
+100418,22-Feb-21,Urban,Dodoma,East,1300900,Masonry,Office Bldg,N,N,5.4
+100511,22-Feb-21,Urban,Dodoma,East,12750000,Frame,Apartment,Y,Y,8.6
+100536,22-Feb-21,Urban,Dodoma,East,7585000,Fire Resist,Office Bldg,Y,Y,5.7
+100537,22-Feb-21,Urban,Dodoma,East,9493313,Masonry,Apartment,Y,Y,6.6
+100394,23-Feb-21,Urban,Kilimanjaro,East,10302000,Fire Resist,Office Bldg,Y,Y,6
+100367,24-Feb-21,Urban,Kigoma,Northeast,2500000,Metal Clad,Manufacturing,N,N,5.5
+100408,24-Feb-21,Urban,Dodoma,Midwest,4833900,Masonry,Office Bldg,N,N,6.4
+100410,24-Feb-21,Urban,Dodoma,East,2029500,Metal Clad,Apartment,Y,Y,6.6
+100369,25-Feb-21,Rural,Dodoma,East,2233200,Frame,Farming,N,N,8.3
+100409,25-Feb-21,Urban,Dodoma,East,2001250,Frame,Office Bldg,Y,Y,6.6
+100546,27-Feb-21,Rural,Dar es Salaam,East,1498850,Metal Clad,Farming,N,N,4
+100434,1-Mar-21,Urban,Dodoma,East,405556,Frame,Apartment,Y,N,9.9
+100523,1-Mar-21,Urban,Dodoma,East,1311220,Frame,Apartment,N,N,7.3
+100433,2-Mar-21,Urban,Arusha,East,1769785,Frame,Hospitality,Y,Y,5.7
+100566,2-Mar-21,Urban,Dodoma,Central,5377000,Frame,Apartment,Y,Y,6.1
+100522,5-Mar-21,Rural,Dodoma,East,1599860,Frame,Farming,N,N,7.1
+100457,6-Mar-21,Urban,Dar es Salaam,East,10780450,Frame,Apartment,Y,Y,8.2
+100521,6-Mar-21,Urban,Dar es Salaam,East,3839200,Masonry,Apartment,N,N,5.1
+100532,7-Mar-21,Urban,Kigoma,East,296000,Frame,Apartment,N,N,8.6
+100533,7-Mar-21,Rural,Dar es Salaam,Midwest,2707630,Frame,Farming,N,N,6.6
+100467,8-Mar-21,Urban,Dodoma,East,2249500,Frame,Farming,N,N,7.2
+100583,8-Mar-21,Urban,Kigoma,East,7611000,Masonry,Office Bldg,Y,Y,5.1
+100404,9-Mar-21,Rural,Dar es Salaam,Midwest,1152600,Frame,Farming,N,N,4.1
+100554,9-Mar-21,Urban,Dodoma,East,9115500,Frame,Apartment,Y,Y,9.3
+100446,11-Mar-21,Urban,Dar es Salaam,East,1600000,Masonry,Hospitality,Y,Y,7.4
+100465,12-Mar-21,Urban,Dodoma,East,2575965,Frame,Farming,Y,N,4.1
+100490,12-Mar-21,Urban,Dodoma,East,220000,Metal Clad,Hospitality,N,N,7.2
+100456,14-Mar-21,Urban,Dar es Salaam,East,1800000,Frame,Apartment,Y,Y,4.9
+100489,14-Mar-21,Urban,Dodoma,East,16998000,Frame,Office Bldg,Y,Y,9.9
+100545,14-Mar-21,Urban,Dodoma,East,14450000,Frame,Office Bldg,Y,Y,8
+100543,15-Mar-21,Urban,Kigoma,East,2835800,Metal Clad,Manufacturing,N,N,7.3
+100564,15-Mar-21,Urban,Dar es Salaam,Midwest,2280000,Frame,Hospitality,Y,Y,7.9
+100430,17-Mar-21,Urban,Mwanza,East,3960000,Frame,Office Bldg,Y,Y,7.4
+100477,17-Mar-21,Urban,Mwanza,Northeast,5272975,Frame,Apartment,Y,Y,4.2
+100478,17-Mar-21,Urban,Dodoma,Northeast,6354220,Frame,Apartment,Y,Y,9.2
+100444,21-Mar-21,Urban,Dar es Salaam,East,8892200,Masonry,Apartment,Y,Y,4.6
+100582,22-Mar-21,Urban,Dodoma,East,4651680,Frame,Apartment,Y,Y,7.8
+100487,23-Mar-21,Urban,Dodoma,East,5990067,Frame,Apartment,N,N,8.4
+100519,25-Mar-21,Rural,Dodoma,East,4102500,Frame,Farming,N,N,4.3
+100462,26-Mar-21,Urban,Dodoma,East,3400000,Frame,Construction,Y,Y,9.5
+100486,26-Mar-21,Urban,Dodoma,East,9973900,Frame,Apartment,Y,Y,7.1
+100463,27-Mar-21,Urban,Dodoma,East,15480000,Frame,Office Bldg,Y,Y,5.3
+100595,27-Mar-21,Rural,Mwanza,East,2446600,Frame,Farming,N,N,5.2
+100617,27-Mar-21,Urban,Kilimanjaro,Northeast,8861500,Frame,Office Bldg,N,N,6
+100580,30-Mar-21,Urban,Dodoma,Northeast,97920,Frame,Office Bldg,Y,Y,4.1
+100581,30-Mar-21,Urban,Kigoma,East,5150000,Frame,Apartment,Y,Y,5.2
+100475,31-Mar-21,Rural,Dar es Salaam,Midwest,1451662,Masonry,Farming,N,N,6.5
+100503,31-Mar-21,Urban,Dodoma,East,1761960,Masonry,Office Bldg,N,N,4.2
+100504,31-Mar-21,Rural,Dodoma,East,1649105,Frame,Farming,N,N,4.6
+100616,31-Mar-21,Urban,Dodoma,East,2329500,Frame,Apartment,N,N,7.3
+100614,3-Apr-21,Urban,Dar es Salaam,East,721500,Frame,Apartment,Y,Y,4.5
+100529,5-Apr-21,Urban,Dar es Salaam,East,2455000,Frame,Apartment,Y,Y,9
+100551,6-Apr-21,Urban,Kigoma,East,3363463,Frame,Farming,Y,N,5.9
+100501,7-Apr-21,Rural,Kigoma,Midwest,1568100,Frame,Farming,N,N,8.5
+100516,7-Apr-21,Urban,Mwanza,Midwest,2063960,Masonry,Organization,N,N,7.2
+100542,7-Apr-21,Urban,Dodoma,Northeast,1806500,Frame,Apartment,N,Y,7.5
+100625,7-Apr-21,Urban,Dodoma,East,49837500,Fire Resist,Apartment,Y,Y,8.3
+100540,9-Apr-21,Rural,Dar es Salaam,East,2244800,Frame,Farming,N,N,7.4
+100663,10-Apr-21,Urban,Dar es Salaam,East,10346950,Frame,Office Bldg,N,Y,8.8
+100539,11-Apr-21,Urban,Dodoma,East,8150000,Frame,Apartment,N,Y,5.3
+100642,11-Apr-21,Urban,Mwanza,East,1697200,Frame,Other,N,N,6.2
+100549,15-Apr-21,Urban,Kigoma,Northeast,3334353,Metal Clad,Farming,Y,Y,8.8
+100680,15-Apr-21,Rural,Dodoma,Midwest,6020060,Masonry,Farming,N,N,9.8
+100560,16-Apr-21,Urban,Dodoma,East,1381370,Frame,Organization,N,N,8.2
+100629,16-Apr-21,Urban,Dar es Salaam,East,2442400,Frame,Retail,N,N,9.2
+100631,16-Apr-21,Urban,Kigoma,East,4193603,Frame,Farming,Y,N,5.4
+100572,17-Apr-21,Rural,Dodoma,Midwest,3725520,Masonry,Farming,N,N,8.1
+100630,17-Apr-21,Urban,Dodoma,East,7394300,Frame,Apartment,Y,Y,9.1
+100637,17-Apr-21,Urban,Dar es Salaam,East,2402500,Frame,Apartment,Y,Y,8.4
+100659,17-Apr-21,Urban,Dar es Salaam,East,1693000,Frame,Farming,Y,N,8
+100527,18-Apr-21,Urban,Dar es Salaam,East,9148076,Frame,Manufacturing,Y,Y,9.5
+100638,18-Apr-21,Urban,Dar es Salaam,East,3950000,Frame,Apartment,Y,Y,9.2
+100679,18-Apr-21,Urban,Kigoma,East,14183900,Frame,Apartment,Y,Y,5.6
+100678,21-Apr-21,Urban,Kigoma,Midwest,35245000,Masonry,Apartment,Y,Y,6.2
+100570,22-Apr-21,Urban,Arusha,Midwest,294700,Masonry,Office Bldg,N,N,4.9
+100578,25-Apr-21,Urban,Dar es Salaam,Central,4488000,Frame,Apartment,N,N,4.8
+100611,25-Apr-21,Urban,Kilimanjaro,East,1595500,Frame,Office Bldg,Y,Y,7.3
+100621,25-Apr-21,Urban,Kigoma,Central,394220,Frame,Retail,N,N,7.4
+100622,25-Apr-21,Urban,Dodoma,Midwest,723900,Fire Resist,Office Bldg,Y,Y,9.9
+100623,25-Apr-21,Rural,Kigoma,East,2006700,Frame,Farming,N,N,9.3
+100604,26-Apr-21,Urban,Dodoma,Midwest,979572,Frame,Retail,N,N,9
+100610,27-Apr-21,Urban,Dodoma,East,5086300,Frame,Office Bldg,Y,Y,6.1
+100591,29-Apr-21,Rural,Dodoma,East,4353100,Frame,Farming,N,N,9.7
+100557,30-Apr-21,Urban,Iringa,East,2056700,Frame,Other,Y,Y,6
+100636,30-Apr-21,Urban,Dodoma,Midwest,4886675,Masonry,Apartment,N,N,10
+100628,1-May-21,Rural,Dodoma,East,1973200,Frame,Farming,N,N,8.3
+100650,2-May-21,Urban,Dar es Salaam,East,4156000,Masonry,Hospitality,Y,Y,6
+100651,2-May-21,Urban,Dodoma,East,1045000,Frame,Apartment,Y,N,7
+100569,3-May-21,Urban,Dar es Salaam,East,800000,Frame,Construction,N,N,6.5
+100609,3-May-21,Urban,Dodoma,East,4483000,Frame,Office Bldg,Y,Y,5.9
+100649,4-May-21,Rural,Kilimanjaro,East,3074775,Frame,Farming,N,N,5.6
+100656,6-May-21,Urban,Dodoma,Midwest,1834200,Frame,Hospitality,Y,Y,4.8
+100677,6-May-21,Urban,Dar es Salaam,East,13370000,Frame,Apartment,Y,Y,8.7
+100704,6-May-21,Urban,Kigoma,East,14474600,Fire Resist,Apartment,Y,Y,6.5
+100713,6-May-21,Rural,Kigoma,Midwest,2103390,Masonry,Farming,N,N,8.5
+100584,7-May-21,Urban,Dodoma,Midwest,7750100,Masonry,Other,N,N,5.5
+100674,7-May-21,Urban,Kigoma,East,9250000,Frame,Office Bldg,Y,Y,9.4
+100589,8-May-21,Rural,Kigoma,Midwest,2867650,Frame,Farming,N,N,6.3
+100590,8-May-21,Rural,Dodoma,Midwest,2798650,Masonry,Farming,N,N,9.8
+100675,8-May-21,Urban,Dodoma,East,2468300,Frame,Apartment,Y,Y,8.7
+100648,9-May-21,Urban,Dar es Salaam,East,270000,Masonry,Retail,N,N,8.8
+100683,9-May-21,Urban,Kigoma,East,1374100,Masonry,Office Bldg,Y,Y,9.6
+100647,10-May-21,Urban,Dodoma,Midwest,4077100,Masonry,Apartment,Y,Y,4.8
+100602,11-May-21,Rural,Mwanza,East,1651300,Frame,Farming,N,N,4.4
+100672,11-May-21,Urban,Kigoma,Northeast,2785000,Frame,Organization,N,N,9.9
+100600,12-May-21,Urban,Dodoma,Midwest,3086048,Frame,Hospitality,Y,Y,5.7
+100655,12-May-21,Urban,Dodoma,East,1974300,Masonry,Organization,Y,Y,7.7
+100671,12-May-21,Rural,Dodoma,East,3660780,Frame,Farming,N,N,8
+100646,13-May-21,Urban,Dodoma,East,2550000,Frame,Apartment,Y,Y,5.7
+100618,14-May-21,Urban,Dodoma,East,2730000,Metal Clad,Hospitality,Y,Y,6.7
+100681,14-May-21,Urban,Dodoma,East,963100,Metal Clad,Apartment,Y,Y,8
+100619,15-May-21,Rural,Dodoma,East,1419500,Frame,Farming,N,N,7.5
+100627,16-May-21,Urban,Arusha,East,2758482,Fire Resist,Apartment,Y,Y,7
+100670,16-May-21,Urban,Dodoma,Central,661900,Frame,Apartment,N,N,9.9
+100689,16-May-21,Urban,Dodoma,East,19451600,Frame,Office Bldg,Y,Y,5.9
+100726,16-May-21,Urban,Mwanza,East,1292345,Frame,Office Bldg,N,N,7.2
+100702,17-May-21,Urban,Dar es Salaam,Northeast,9702682,Frame,Apartment,N,N,4.6
+100703,17-May-21,Urban,Kilimanjaro,East,10198700,Fire Resist,Office Bldg,Y,Y,9.2
+100635,18-May-21,Urban,Mwanza,Central,714000,Frame,Apartment,N,N,5.7
+100736,18-May-21,Rural,Dar es Salaam,Northeast,2099525,Frame,Farming,N,N,9.9
+100737,18-May-21,Urban,Dodoma,East,16200000,Frame,Office Bldg,Y,Y,5
+100644,19-May-21,Urban,Dodoma,East,2570600,Masonry,Office Bldg,Y,Y,4.9
+100643,20-May-21,Urban,Dodoma,East,1280000,Fire Resist,Hospitality,Y,Y,6.1
+100698,20-May-21,Urban,Arusha,East,205000,Fire Resist,Retail,N,N,8.2
+100652,21-May-21,Urban,Dar es Salaam,Central,1760800,Frame,Apartment,N,N,5.5
+100653,21-May-21,Urban,Dodoma,East,2812559,Frame,Farming,N,N,6.8
+100705,21-May-21,Rural,Dodoma,East,3943000,Frame,Farming,N,N,6.6
+100718,21-May-21,Urban,Dodoma,East,3107790,Masonry,Office Bldg,N,Y,9.8
+100744,21-May-21,Urban,Kilimanjaro,East,9448200,Frame,Apartment,Y,Y,8.7
+100709,22-May-21,Rural,Dodoma,Central,10617800,Frame,Manufacturing,Y,Y,5.4
+100749,22-May-21,Urban,Dar es Salaam,East,847300,Frame,Apartment,Y,Y,7.9
+100751,22-May-21,Urban,Dodoma,East,400000,Masonry,Office Bldg,N,Y,9.7
+100752,22-May-21,Urban,Iringa,East,363200,Frame,Office Bldg,N,Y,7.8
+100696,23-May-21,Urban,Kigoma,Midwest,2922600,Masonry,Apartment,Y,Y,5.1
+100742,23-May-21,Urban,Dodoma,Midwest,500500,Masonry,Apartment,Y,Y,6.5
+100666,24-May-21,Rural,Dodoma,East,1927450,Frame,Farming,N,N,5.9
+100667,25-May-21,Rural,Kigoma,East,2660299,Frame,Farming,N,N,8.8
+100740,25-May-21,Urban,Kigoma,Midwest,3980100,Masonry,Apartment,N,N,4.9
+100757,25-May-21,Urban,Mwanza,Midwest,2987000,Masonry,Apartment,Y,Y,4.4
+100750,27-May-21,Urban,Dodoma,Northeast,16429900,Frame,Apartment,Y,Y,6.5
+100756,27-May-21,Urban,Dodoma,East,16950000,Frame,Apartment,Y,Y,8.3
+100754,29-May-21,Urban,Dodoma,East,36909180,Metal Clad,Manufacturing,Y,Y,8.5
+100764,29-May-21,Urban,Kigoma,East,9600000,Frame,Office Bldg,Y,N,5.5
+100724,30-May-21,Urban,Dodoma,East,22050000,Frame,Office Bldg,Y,Y,8.7
+100686,1-Jun-21,Urban,Dodoma,East,3850000,Frame,Construction,N,Y,7.9
+100761,2-Jun-21,Urban,Iringa,Northeast,13514081,Frame,Recreation,Y,Y,6.1
+100695,3-Jun-21,Urban,Kigoma,East,2000000,Frame,Hospitality,Y,Y,5.4
+100727,3-Jun-21,Rural,Dodoma,Midwest,1658765,Masonry,Farming,N,N,9.4
+100777,3-Jun-21,Urban,Dodoma,Central,8272853,Masonry,Apartment,N,N,8.2
+100774,4-Jun-21,Urban,Dodoma,East,6750000,Frame,Apartment,Y,Y,6.2
+100720,5-Jun-21,Urban,Dodoma,Midwest,7828000,Masonry,Office Bldg,N,Y,9.7
+100723,5-Jun-21,Urban,Dodoma,East,373500,Frame,Office Bldg,N,N,4
+100759,5-Jun-21,Urban,Kigoma,East,17050000,Frame,Office Bldg,Y,Y,9.7
+100722,6-Jun-21,Rural,Dar es Salaam,East,1958400,Frame,Farming,N,N,5.3
+100731,6-Jun-21,Urban,Kigoma,East,17746832,Masonry,Apartment,Y,Y,7.4
+100755,6-Jun-21,Urban,Dodoma,Midwest,6040300,Masonry,Apartment,Y,N,6.5
+100745,7-Jun-21,Rural,Kigoma,Midwest,2224219,Frame,Farming,N,N,8.7
+100746,7-Jun-21,Urban,Dodoma,East,847300,Frame,Office Bldg,Y,Y,8
+100747,7-Jun-21,Urban,Dodoma,Midwest,782428,Masonry,Apartment,N,N,6.7
+100780,8-Jun-21,Urban,Dodoma,East,299400,Frame,Office Bldg,Y,N,6.5
+100760,9-Jun-21,Urban,Mwanza,Midwest,1397100,Masonry,Office Bldg,Y,Y,4.1
+100781,9-Jun-21,Urban,Arusha,East,1714835,Frame,Apartment,N,N,4.9
+100783,9-Jun-21,Urban,Dodoma,Central,1991600,Frame,Organization,N,N,8.6
+100768,10-Jun-21,Urban,Dodoma,Midwest,3701573,Frame,Farming,N,N,4.3
+100769,10-Jun-21,Urban,Dodoma,East,5460000,Frame,Apartment,Y,Y,4.9
+100775,10-Jun-21,Rural,Dar es Salaam,East,3136600,Frame,Farming,N,N,5.6
+100773,11-Jun-21,Urban,Kigoma,East,1780000,Frame,Hospitality,Y,Y,5.8
+100789,26-Aug-21,Urban,Dar es Salaam,East,230000,Frame,Manufacturing,Y,Y,6
+100790,26-Aug-21,Urban,Dodoma,East,1463800,Frame,Farming,Y,N,4.2
+100792,26-Aug-21,Rural,Mwanza,Northeast,3579800,Metal Clad,Farming,N,N,8.3
+100793,27-Aug-21,Urban,Kigoma,East,1275600,Frame,Apartment,N,Y,5.7
+100797,29-Aug-21,Rural,Dar es Salaam,East,5781710,Frame,Farming,N,N,4.8
+100799,30-Aug-21,Urban,Iringa,Northeast,320000,Masonry,Retail,N,N,6.8
+100800,30-Aug-21,Urban,Kigoma,East,1379400,Frame,Apartment,N,N,8.8
+100801,31-Aug-21,Rural,Arusha,Midwest,6385452,Frame,Farming,Y,N,4.2
+100803,31-Aug-21,Urban,Dodoma,Midwest,4671000,Masonry,Apartment,Y,Y,6.4
+100805,1-Sep-21,Rural,Kigoma,East,199000,Frame,Retail,N,N,8.4
+100808,2-Sep-21,Urban,Dodoma,Midwest,2100000,Frame,Apartment,N,N,7.2
+100810,2-Sep-21,Urban,Dodoma,East,1875000,Masonry,Hospitality,Y,Y,5.2
+100811,2-Sep-21,Rural,Dodoma,Midwest,2201500,Frame,Farming,N,N,8.9
+100813,2-Sep-21,Urban,Dodoma,East,1986100,Frame,Apartment,N,N,9
+100814,2-Sep-21,Urban,Dodoma,Midwest,105000,Masonry,Other,N,N,9.7
+100817,3-Sep-21,Urban,Dodoma,East,3700000,Masonry,Office Bldg,Y,Y,8.7
+100818,3-Sep-21,Urban,Dodoma,Midwest,29128000,Fire Resist,Apartment,Y,Y,6.5
+100819,5-Sep-21,Urban,Dar es Salaam,Northeast,10700000,Frame,Hospitality,Y,Y,6.9
+100821,5-Sep-21,Rural,Kigoma,Midwest,1778600,Frame,Farming,N,N,6.2
+100822,6-Sep-21,Rural,Dodoma,East,3866420,Frame,Farming,N,N,5.6
+100823,6-Sep-21,Urban,Kigoma,East,1037500,Frame,Manufacturing,N,N,5.7
+100824,7-Sep-21,Rural,Dar es Salaam,East,2480800,Frame,Farming,N,N,4.2
+100825,7-Sep-21,Urban,Iringa,Midwest,578400,Masonry,Office Bldg,N,N,7.9
+100826,7-Sep-21,Urban,Kigoma,East,3178400,Frame,Office Bldg,Y,Y,8.7
+100828,9-Sep-21,Urban,Dodoma,Northeast,7150000,Masonry,Apartment,Y,Y,6.9
+100831,10-Sep-21,Urban,Dar es Salaam,East,1604800,Frame,Hospitality,Y,Y,9.5
+100832,10-Sep-21,Urban,Dar es Salaam,East,18275350,Frame,Office Bldg,Y,Y,4.4
+100834,11-Sep-21,Urban,Arusha,East,710400,Masonry,Office Bldg,N,N,7
+100836,11-Sep-21,Urban,Arusha,Midwest,2205950,Masonry,Apartment,N,N,6.3
+100837,11-Sep-21,Urban,Dar es Salaam,Midwest,8166050,Fire Resist,Apartment,N,Y,9.7
+100838,11-Sep-21,Urban,Kigoma,Midwest,3222081,Masonry,Farming,N,N,8.8
+100839,13-Sep-21,Urban,Dodoma,East,371600,Frame,Hospitality,Y,N,5.1
+100844,15-Sep-21,Urban,Dar es Salaam,Midwest,1365000,Masonry,Hospitality,Y,Y,7.9
+100845,15-Sep-21,Urban,Dodoma,East,24000000,Frame,Apartment,Y,Y,6.2
+100846,15-Sep-21,Urban,Dodoma,East,7700000,Fire Resist,Construction,Y,Y,7.1
+100850,16-Sep-21,Urban,Dodoma,Midwest,4578800,Frame,Farming,N,N,6.4
+100854,21-Sep-21,Rural,Dodoma,Northeast,2477200,Frame,Farming,N,N,5.7
+100856,22-Sep-21,Urban,Dodoma,East,3432600,Frame,Office Bldg,Y,Y,9.6
+100857,23-Sep-21,Rural,Dar es Salaam,Midwest,172100,Frame,Farming,N,N,6.4
+100859,23-Sep-21,Urban,Dodoma,East,11147050,Fire Resist,Apartment,Y,Y,7.9
+100861,23-Sep-21,Urban,Dodoma,East,2007000,Frame,Office Bldg,Y,Y,6.5
+100863,24-Sep-21,Urban,Dodoma,East,9404500,Frame,Apartment,Y,Y,8.5
+100864,24-Sep-21,Urban,Dodoma,East,5056900,Fire Resist,Apartment,Y,Y,9.1
+100868,26-Sep-21,Urban,Kigoma,Midwest,4577032,Frame,Farming,N,N,7.6
+100869,26-Sep-21,Urban,Dar es Salaam,East,953100,Metal Clad,Office Bldg,N,N,6.9
+100870,27-Sep-21,Rural,Mwanza,East,2562500,Fire Resist,Manufacturing,N,N,9.5
+100872,28-Sep-21,Urban,Kigoma,East,6908000,Frame,Office Bldg,Y,Y,5.2
+100873,29-Sep-21,Urban,Dodoma,Northeast,1588100,Masonry,Recreation,N,N,4.2
+100874,30-Sep-21,Urban,Dar es Salaam,East,311200,Frame,Apartment,N,N,7
+100875,1-Oct-21,Urban,Dodoma,East,14850000,Frame,Office Bldg,Y,Y,6
+100876,1-Oct-21,Urban,Dodoma,East,1557500,Frame,Office Bldg,N,Y,4.7
+100878,1-Oct-21,Urban,Dodoma,East,4267000,Frame,Office Bldg,Y,Y,7.1
+100882,3-Oct-21,Urban,Dodoma,Midwest,1702350,Frame,Apartment,N,N,5.9
+100883,4-Oct-21,Urban,Kilimanjaro,East,280600,Frame,Office Bldg,N,N,7.5
+100885,4-Oct-21,Urban,Kigoma,Midwest,2025100,Masonry,Office Bldg,N,N,6.4
+100886,4-Oct-21,Urban,Dodoma,East,6748000,Frame,Apartment,Y,Y,5.8
+100887,5-Oct-21,Urban,Dodoma,Midwest,2067500,Fire Resist,Service,Y,Y,4.5
+100889,5-Oct-21,Urban,Dodoma,East,3235700,Frame,Apartment,Y,Y,7.7
+100894,7-Oct-21,Urban,Dodoma,East,2356100,Frame,Hospitality,Y,Y,6.7
+100895,7-Oct-21,Urban,Dar es Salaam,East,7932500,Frame,Apartment,Y,Y,4.7
+100898,10-Oct-21,Urban,Dodoma,East,1851125,Frame,Office Bldg,N,N,4.4
+100900,11-Oct-21,Urban,Dodoma,East,8345500,Frame,Apartment,Y,Y,4.7
+100901,11-Oct-21,Urban,Arusha,East,2400000,Frame,Construction,Y,Y,8.6
+100903,12-Oct-21,Urban,Dodoma,Midwest,1675000,Frame,Hospitality,Y,Y,4.3
+100904,13-Oct-21,Urban,Dodoma,Northeast,145680,Frame,Office Bldg,N,N,9.6
+100908,14-Oct-21,Urban,Dar es Salaam,East,13900000,Frame,Office Bldg,Y,Y,4.1
+100909,14-Oct-21,Urban,Dar es Salaam,East,13575000,Frame,Office Bldg,Y,Y,4.7
+100910,14-Oct-21,Urban,Kigoma,East,5950500,Metal Clad,Office Bldg,Y,Y,7.8
+100912,15-Oct-21,Urban,Dar es Salaam,Central,1569440,Masonry,Organization,N,N,5.5
+100215,17-Oct-21,Urban,Dodoma,East,2131900,Masonry,Retail,N,N,9.7
+100914,17-Oct-21,Urban,Kigoma,Midwest,631410,Frame,Farming,N,N,4.4
+100916,18-Oct-21,Urban,Dar es Salaam,East,1856637,Masonry,Hospitality,Y,Y,5
+100919,20-Oct-21,Urban,Dodoma,Midwest,2321900,Frame,Manufacturing,N,N,4.4
+100920,20-Oct-21,Urban,Dar es Salaam,East,4726686,Frame,Farming,Y,N,5.2
+100228,21-Oct-21,Urban,Dodoma,Northeast,1444255,Frame,Organization,N,N,7.3
+100923,21-Oct-21,Urban,Dodoma,East,1830900,Frame,Office Bldg,N,N,4.9
+100927,22-Oct-21,Urban,Dar es Salaam,Northeast,1325200,Frame,Organization,N,N,8.1
+100928,22-Oct-21,Urban,Dodoma,East,1267625,Frame,Office Bldg,N,N,8.4
+100929,22-Oct-21,Rural,Dodoma,East,3409000,Metal Clad,Farming,N,N,5.5
+100214,23-Oct-21,Urban,Kigoma,East,33250000,Frame,Apartment,Y,Y,8.4
+100932,23-Oct-21,Urban,Dar es Salaam,East,320100,Frame,Apartment,N,N,9.8
+100933,23-Oct-21,Urban,Mwanza,Midwest,275000,Masonry,Apartment,N,N,6.7
+100934,24-Oct-21,Urban,Mwanza,Midwest,1519100,Masonry,Apartment,N,N,9.4
+100936,26-Oct-21,Rural,Dodoma,Midwest,2182250,Frame,Farming,N,N,6.4
+100250,27-Oct-21,Rural,Dar es Salaam,Midwest,4328620,Frame,Farming,N,N,5.4
+100939,27-Oct-21,Urban,Dodoma,East,1840000,Masonry,Apartment,N,N,8.6
+100940,28-Oct-21,Urban,Dodoma,East,21250000,Frame,Office Bldg,Y,Y,4
+100941,28-Oct-21,Rural,Dodoma,East,2534633,Frame,Farming,N,N,7.6
+100942,28-Oct-21,Urban,Dodoma,East,2494300,Frame,Apartment,Y,Y,6.8
+100943,28-Oct-21,Urban,Dodoma,East,2562500,Frame,Apartment,Y,Y,9.1
+100227,29-Oct-21,Urban,Dodoma,Midwest,685000,Masonry,Hospitality,Y,Y,5.5
+100945,29-Oct-21,Urban,Mwanza,East,503000,Masonry,Hospitality,N,Y,7.9
+100947,29-Oct-21,Urban,Kilimanjaro,East,10259600,Frame,Apartment,Y,Y,8.5
+100226,30-Oct-21,Urban,Dodoma,East,3798400,Metal Clad,Office Bldg,Y,Y,9.1
+100948,30-Oct-21,Urban,Kigoma,East,2269865,Masonry,Retail,Y,Y,7.5
+100950,31-Oct-21,Urban,Dar es Salaam,East,2363700,Frame,Farming,N,N,5.2
+100249,1-Nov-21,Urban,Dodoma,Midwest,1960200,Masonry,Farming,N,N,9.5
+100952,1-Nov-21,Urban,Dodoma,Midwest,16833800,Fire Resist,Apartment,Y,Y,8.9
+100953,1-Nov-21,Rural,Dodoma,East,4127900,Metal Clad,Farming,N,N,7.8
+100955,3-Nov-21,Urban,Dar es Salaam,East,2753500,Masonry,Office Bldg,Y,Y,8.9
+100287,4-Nov-21,Urban,Dar es Salaam,East,10518041,Frame,Office Bldg,Y,Y,7.7
+100956,4-Nov-21,Urban,Kigoma,East,1554500,Frame,Farming,N,N,9.3
+100959,5-Nov-21,Urban,Kigoma,East,1115870,Frame,Farming,Y,N,6.2
+100261,6-Nov-21,Urban,Mwanza,East,15625000,Frame,Office Bldg,Y,Y,7.6
+100961,6-Nov-21,Urban,Dodoma,Midwest,787500,Frame,Apartment,N,N,7.3
+100962,7-Nov-21,Urban,Dodoma,East,15750000,Masonry,Apartment,Y,Y,4.7
+100966,7-Nov-21,Urban,Dar es Salaam,Central,320000,Masonry,Retail,N,N,5.1
+100969,9-Nov-21,Rural,Dar es Salaam,Midwest,2611400,Frame,Farming,N,N,4.8
+100972,9-Nov-21,Rural,Dodoma,East,2398000,Metal Clad,Farming,N,N,6.6
+100974,10-Nov-21,Urban,Mwanza,East,2329942,Frame,Farming,Y,N,5.5
+100975,10-Nov-21,Urban,Kigoma,Midwest,1305100,Frame,Apartment,Y,Y,8.5
+100977,10-Nov-21,Rural,Dodoma,East,4981500,Frame,Farming,N,N,4.8
+100978,10-Nov-21,Urban,Dodoma,East,535000,Fire Resist,Retail,N,N,8.4
+100981,10-Nov-21,Urban,Dar es Salaam,East,10397500,Frame,Apartment,Y,Y,7.8
+100240,11-Nov-21,Urban,Kigoma,East,2003000,Masonry,Apartment,Y,Y,9.3
+100982,11-Nov-21,Urban,Dodoma,East,10808800,Frame,Office Bldg,Y,Y,5.2
+100983,11-Nov-21,Urban,Dodoma,East,1962400,Frame,Apartment,N,N,6.5
+100239,12-Nov-21,Urban,Dar es Salaam,East,2423500,Frame,Apartment,Y,Y,5.6
+100985,12-Nov-21,Rural,Dar es Salaam,East,3067800,Frame,Farming,N,N,7.4
+100237,13-Nov-21,Urban,Dar es Salaam,Central,1202090,Frame,Organization,N,N,9.1
+100238,13-Nov-21,Urban,Dar es Salaam,East,3062000,Frame,Apartment,Y,Y,8
+100986,13-Nov-21,Urban,Kigoma,East,2815900,Metal Clad,Manufacturing,N,N,7.2
+100987,13-Nov-21,Urban,Kigoma,Northeast,790000,Masonry,Apartment,N,N,7.1
+100988,13-Nov-21,Urban,Arusha,East,1975000,Fire Resist,Hospitality,Y,Y,9.1
+100260,14-Nov-21,Urban,Dar es Salaam,Midwest,2070000,Masonry,Apartment,N,N,5.6
+100302,14-Nov-21,Urban,Kilimanjaro,East,847300,Frame,Apartment,Y,Y,6
+100274,15-Nov-21,Urban,Kigoma,East,2029750,Frame,Apartment,N,N,5.4
+100209,16-Nov-21,Rural,Dodoma,East,2636313,Frame,Farming,N,N,7.8
+100991,16-Nov-21,Urban,Kigoma,East,2080000,Masonry,Hospitality,Y,Y,9.9
+100992,16-Nov-21,Urban,Dodoma,East,205000,Fire Resist,Retail,Y,Y,4.9
+100993,16-Nov-21,Urban,Dodoma,East,1936200,Frame,Farming,N,N,5.2
+100994,17-Nov-21,Urban,Dodoma,Midwest,1403100,Frame,Medical,N,N,8.9
+100259,18-Nov-21,Urban,Iringa,Central,315000,Frame,Apartment,N,N,9.1
+100273,19-Nov-21,Urban,Dodoma,East,2000000,Masonry,Apartment,Y,Y,7
+100996,19-Nov-21,Urban,Dodoma,East,9900000,Frame,Apartment,Y,Y,9.6
+100998,19-Nov-21,Urban,Dar es Salaam,Central,3255300,Frame,Hospitality,N,N,8.7
+100999,19-Nov-21,Rural,Dodoma,East,4477175,Frame,Farming,Y,N,9.4
+101000,19-Nov-21,Urban,Dar es Salaam,East,2395000,Frame,Hospitality,N,Y,4
+100257,20-Nov-21,Urban,Dodoma,East,5550000,Fire Resist,Apartment,Y,Y,7.5
+100258,21-Nov-21,Urban,Kilimanjaro,East,1922800,Metal Clad,Office Bldg,Y,Y,4.2
+101003,21-Nov-21,Urban,Dodoma,East,3028850,Frame,Farming,Y,N,9.9
+101005,21-Nov-21,Rural,Dar es Salaam,East,10811785,Metal Clad,Retail,N,N,4.2
+100208,22-Nov-21,Urban,Kigoma,East,30000,Fire Resist,Service,Y,Y,9.9
+101008,22-Nov-21,Urban,Kigoma,East,15700000,Frame,Office Bldg,Y,Y,5.8
+101009,22-Nov-21,Urban,Dodoma,Midwest,5503255,Masonry,Office Bldg,N,N,6
+100307,23-Nov-21,Urban,Kigoma,Midwest,5015000,Masonry,Manufacturing,N,N,10
+101011,23-Nov-21,Urban,Kigoma,Central,601000,Frame,Other,N,N,9.5
+101012,24-Nov-21,Urban,Dodoma,East,1563500,Frame,Retail,Y,Y,6.6
+100271,25-Nov-21,Rural,Dodoma,East,10979275,Frame,Farming,N,N,8.1
+100301,25-Nov-21,Urban,Dar es Salaam,East,6198000,Frame,Office Bldg,Y,Y,9.7
+101016,25-Nov-21,Urban,Kigoma,Midwest,504000,Frame,Apartment,N,N,7.2
+101019,26-Nov-21,Urban,Dodoma,Midwest,2211300,Masonry,Service,Y,Y,6.2
+100336,27-Nov-21,Rural,Mwanza,Northeast,6000902,Frame,Farming,Y,Y,7.3
+101023,27-Nov-21,Urban,Kigoma,East,660473,Frame,Apartment,N,N,4.3
+101024,27-Nov-21,Urban,Dodoma,East,4978985,Frame,Farming,Y,N,4.6
+100206,28-Nov-21,Urban,Dodoma,East,5213100,Frame,Apartment,Y,Y,5.8
+100286,28-Nov-21,Rural,Dodoma,East,2336132,Metal Clad,Farming,N,N,8.3
+100324,28-Nov-21,Urban,Dodoma,East,6253000,Frame,Apartment,Y,Y,8
+100334,28-Nov-21,Urban,Dodoma,East,1500000,Fire Resist,Hospitality,Y,Y,9.4
+100335,28-Nov-21,Rural,Dodoma,Midwest,2984500,Metal Clad,Farming,N,N,6.2
+101025,28-Nov-21,Urban,Dodoma,Midwest,2502600,Masonry,Apartment,Y,Y,9.8
+101029,28-Nov-21,Urban,Arusha,East,8115500,Fire Resist,Apartment,Y,Y,9.6
+101031,29-Nov-21,Rural,Dodoma,East,2162291,Frame,Farming,N,N,4.9
+100205,30-Nov-21,Rural,Dodoma,Midwest,4064995,Masonry,Farming,N,N,8
+100222,30-Nov-21,Rural,Mwanza,East,3295800,Frame,Farming,N,N,7.8
+101034,30-Nov-21,Urban,Dar es Salaam,East,9710700,Frame,Apartment,Y,Y,4.1
+100221,1-Dec-21,Urban,Kilimanjaro,East,2350000,Masonry,Apartment,Y,Y,5.5
+100246,1-Dec-21,Urban,Mwanza,East,1807440,Frame,Organization,Y,Y,5.4
+100298,1-Dec-21,Urban,Dar es Salaam,Midwest,3175400,Masonry,Office Bldg,Y,Y,5.1
+101035,1-Dec-21,Urban,Dodoma,Midwest,3741300,Fire Resist,Apartment,Y,Y,6.9
+100333,2-Dec-21,Rural,Dodoma,East,2806200,Frame,Farming,N,N,7.8
+101036,2-Dec-21,Urban,Dodoma,Northeast,6169400,Frame,Apartment,Y,Y,6.6
+101037,2-Dec-21,Urban,Arusha,East,2325718,Metal Clad,Manufacturing,N,N,9.2
+101039,3-Dec-21,Urban,Dar es Salaam,East,245000,Frame,Service,N,N,7.8
+101042,3-Dec-21,Urban,Dodoma,Midwest,4201800,Frame,Farming,N,N,8.7
+101043,4-Dec-21,Rural,Dodoma,Midwest,2820265,Frame,Farming,N,N,9.2
+101044,4-Dec-21,Urban,Dodoma,East,12220000,Frame,Office Bldg,Y,Y,8.3
+100219,5-Dec-21,Urban,Kilimanjaro,East,1144300,Frame,Apartment,Y,Y,8.2
+100220,5-Dec-21,Urban,Dodoma,East,4530000,Frame,Apartment,Y,Y,7.5
+100235,5-Dec-21,Urban,Dar es Salaam,Northeast,552300,Frame,Apartment,N,N,9.8
+100300,5-Dec-21,Urban,Dodoma,East,2000300,Masonry,Office Bldg,N,N,8.7
+101046,5-Dec-21,Urban,Iringa,East,3990000,Frame,Apartment,Y,Y,6.7
+100366,7-Dec-21,Urban,Kigoma,East,5850000,Frame,Apartment,Y,Y,5
+101052,7-Dec-21,Urban,Dodoma,East,6250000,Frame,Apartment,Y,Y,7
+101053,7-Dec-21,Urban,Dodoma,Northeast,1327600,Frame,Apartment,N,N,8.9
+101054,7-Dec-21,Urban,Kigoma,East,1510000,Masonry,Hospitality,N,N,8
+100234,8-Dec-21,Urban,Kigoma,East,3871000,Frame,Apartment,Y,Y,6.9
+100269,9-Dec-21,Urban,Mwanza,East,513300,Frame,Apartment,N,N,7.3
+100317,9-Dec-21,Rural,Dodoma,East,2943800,Frame,Farming,N,N,6.9
+100318,9-Dec-21,Urban,Dodoma,Midwest,3952500,Masonry,Manufacturing,Y,Y,5.7
+100319,9-Dec-21,Urban,Dodoma,East,8923000,Frame,Apartment,Y,Y,6.4
+101058,9-Dec-21,Urban,Dodoma,Midwest,2900000,Fire Resist,Apartment,Y,Y,9.6
+101061,9-Dec-21,Urban,Dodoma,East,6450000,Frame,Office Bldg,Y,Y,6.8
+100365,10-Dec-21,Urban,Mwanza,East,4479400,Frame,Apartment,N,N,9
+100374,11-Dec-21,Urban,Dodoma,Midwest,2030600,Frame,Farming,N,N,9.6
+101066,11-Dec-21,Rural,Kigoma,East,2013357,Frame,Farming,N,N,7.7
+101067,11-Dec-21,Rural,Arusha,East,4017155,Frame,Farming,N,N,7
+101068,11-Dec-21,Urban,Dodoma,East,11650000,Frame,Office Bldg,Y,Y,6.5
+100244,12-Dec-21,Urban,Iringa,East,9250000,Frame,Apartment,Y,Y,8.1
+101069,12-Dec-21,Rural,Dar es Salaam,Northeast,2198800,Frame,Farming,N,N,4.3
+101070,12-Dec-21,Rural,Dodoma,East,3553009,Frame,Farming,N,N,6.5
+101071,12-Dec-21,Urban,Dodoma,Midwest,1063100,Masonry,Apartment,Y,Y,9.5
+101073,13-Dec-21,Urban,Dodoma,East,2854500,Masonry,Apartment,Y,Y,9.7
+101074,13-Dec-21,Urban,Kigoma,East,3356200,Masonry,Construction,Y,Y,9.5
+100364,14-Dec-21,Rural,Kigoma,East,1882600,Frame,Farming,N,N,8.9
+101075,14-Dec-21,Rural,Dodoma,East,2393232,Frame,Farming,N,N,6.5
+101076,14-Dec-21,Urban,Kigoma,East,14678200,Frame,Office Bldg,Y,Y,5.3
+100218,17-Dec-21,Rural,Dar es Salaam,East,5017360,Frame,Farming,N,N,9.6
+101083,18-Dec-21,Urban,Kigoma,East,2625000,Frame,Apartment,Y,Y,6.7
+101088,19-Dec-21,Urban,Dodoma,East,285700,Frame,Office Bldg,N,N,7.6
+101089,19-Dec-21,Urban,Kilimanjaro,East,275000,Fire Resist,Retail,Y,N,4.8
+101090,19-Dec-21,Urban,Kigoma,East,10396250,Frame,Office Bldg,Y,Y,5.5
+101091,19-Dec-21,Urban,Dar es Salaam,East,27208210,Fire Resist,Apartment,Y,Y,4.7
+101092,19-Dec-21,Urban,Dodoma,Midwest,1740000,Masonry,Office Bldg,N,N,6.9
+101093,19-Dec-21,Rural,Dodoma,Midwest,2464755,Metal Clad,Farming,N,N,4.5
+100347,20-Dec-21,Urban,Dodoma,East,535000,Frame,Office Bldg,N,N,6.2
+101094,20-Dec-21,Urban,Dar es Salaam,East,2837500,Frame,Manufacturing,Y,Y,7.6
+100204,21-Dec-21,Urban,Mwanza,Midwest,1400000,Masonry,Organization,N,N,7.9
+100344,21-Dec-21,Urban,Dodoma,Midwest,1711268,Frame,Manufacturing,N,N,4.5
+100346,21-Dec-21,Urban,Dodoma,East,1780000,Masonry,Hospitality,Y,Y,8.7
+100391,21-Dec-21,Urban,Kilimanjaro,East,10746600,Frame,Apartment,Y,Y,6.1
+101096,21-Dec-21,Urban,Dodoma,East,645000,Fire Resist,Retail,N,N,6.4
+100203,22-Dec-21,Rural,Kigoma,East,3724339,Frame,Farming,N,N,9.1
+100231,22-Dec-21,Urban,Kigoma,East,12493000,Frame,Apartment,Y,Y,7.1
+101098,22-Dec-21,Urban,Dodoma,Midwest,539040,Frame,Retail,N,N,7.7
+101100,22-Dec-21,Urban,Kigoma,East,2159000,Frame,Retail,N,N,4.5
+100202,23-Dec-21,Urban,Dodoma,East,3750000,Frame,Apartment,Y,Y,7.2
+100217,23-Dec-21,Rural,Kigoma,East,100000,Metal Clad,Farming,N,N,8.4
+101102,23-Dec-21,Rural,Dodoma,East,1121600,Metal Clad,Farming,N,N,5.4
+100305,24-Dec-21,Urban,Kigoma,East,9000000,Fire Resist,Apartment,Y,Y,9.7
+101104,24-Dec-21,Urban,Dar es Salaam,East,292200,Frame,Apartment,Y,Y,5.5
+101105,24-Dec-21,Urban,Iringa,Northeast,345000,Metal Clad,Retail,N,N,4.6
+100201,25-Dec-21,Urban,Mwanza,East,11575700,Frame,Apartment,Y,Y,6.6
+100230,25-Dec-21,Urban,Kigoma,Central,608500,Frame,Apartment,N,N,6.3
+100295,25-Dec-21,Urban,Dodoma,East,5114500,Frame,Office Bldg,Y,Y,4.2
+100360,25-Dec-21,Urban,Dodoma,Midwest,4822450,Masonry,Office Bldg,Y,Y,4.4
+100361,25-Dec-21,Urban,Dodoma,East,1125600,Masonry,Apartment,N,N,6.7
+101107,25-Dec-21,Urban,Kigoma,East,9377600,Frame,Apartment,Y,Y,6.7
+101109,25-Dec-21,Rural,Dodoma,East,3920500,Frame,Farming,N,N,8.4
+100229,26-Dec-21,Urban,Kilimanjaro,Northeast,626000,Masonry,Office Bldg,N,N,6.2
+100282,26-Dec-21,Rural,Dar es Salaam,Midwest,4132600,Frame,Farming,N,N,5
+101111,26-Dec-21,Rural,Dodoma,East,6235057,Frame,Farming,N,N,6
+100400,27-Dec-21,Rural,Dodoma,Northeast,1960000,Frame,Farming,N,N,7
+101113,27-Dec-21,Rural,Kigoma,East,2500000,Metal Clad,Farming,N,N,6.6
+101114,27-Dec-21,Urban,Kigoma,Midwest,3883300,Metal Clad,Farming,N,N,7.3
+100200,28-Dec-21,Urban,Kigoma,East,1425000,Masonry,Apartment,N,N,8.3
+100330,28-Dec-21,Urban,Dar es Salaam,East,1545100,Frame,Office Bldg,Y,Y,4.3
+101115,28-Dec-21,Urban,Kigoma,Midwest,1665100,Frame,Apartment,N,N,9.8
+101116,29-Dec-21,Urban,Dodoma,East,8245000,Frame,Apartment,Y,Y,8.2
+100216,30-Dec-21,Urban,Dodoma,East,2432600,Frame,Retail,Y,Y,7.2
+100389,30-Dec-21,Urban,Iringa,East,1480000,Fire Resist,Hospitality,Y,Y,8.7
+101117,30-Dec-21,Urban,Mwanza,East,9050000,Frame,Apartment,Y,Y,8.4
+101120,30-Dec-21,Rural,Dar es Salaam,East,1480755,Frame,Farming,N,N,7.1
+101121,31-Dec-21,Urban,Iringa,Northeast,4101750,Fire Resist,Office Bldg,Y,Y,5.5
+101122,31-Dec-21,Urban,Dodoma,Central,1739100,Frame,Apartment,N,N,8.5
+101123,31-Dec-21,Urban,Dodoma,East,2250000,Frame,Office Bldg,Y,Y,6.2
+101125,31-Dec-21,Urban,Dodoma,East,16482200,Frame,Office Bldg,Y,Y,8.9
+101126,31-Dec-21,Urban,Dodoma,Midwest,1776800,Frame,Farming,N,N,9.6
