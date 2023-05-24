@@ -168,6 +168,12 @@ def sideBar():
 
 sideBar()
 
+#pie chart
+fig = px.pie(df_selection, values='Rating', names='State', title='Regions by Ratings')
+fig.update_layout(legend_title="Regions", legend_y=0.9)
+fig.update_traces(textinfo='percent+label', textposition='inside')
+st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
+
 #theme
 hide_st_style=""" 
 
