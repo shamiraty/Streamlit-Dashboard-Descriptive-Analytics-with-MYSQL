@@ -127,9 +127,16 @@ def graphs():
     yaxis=(dict(showgrid=False))
      )
 
-    left,right=st.columns(2)
+    left,right,center=st.columns(3)
     left.plotly_chart(fig_state,use_container_width=True)
     right.plotly_chart(fig_investment,use_container_width=True)
+    
+    with center:
+      #pie chart
+      fig = px.pie(df_selection, values='Rating', names='State', title='Regions by Ratings')
+      fig.update_layout(legend_title="Regions", legend_y=0.9)
+      fig.update_traces(textinfo='percent+label', textposition='inside')
+      st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
      
 def Progressbar():
     st.markdown("""<style>.stProgress > div > div > div > div { background-image: linear-gradient(to right, #99ff99 , #FFFF00)}</style>""",unsafe_allow_html=True,)
@@ -168,11 +175,7 @@ def sideBar():
 
 sideBar()
 
-#pie chart
-fig = px.pie(df_selection, values='Rating', names='State', title='Regions by Ratings')
-fig.update_layout(legend_title="Regions", legend_y=0.9)
-fig.update_traces(textinfo='percent+label', textposition='inside')
-st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
+
 
 #theme
 hide_st_style=""" 
