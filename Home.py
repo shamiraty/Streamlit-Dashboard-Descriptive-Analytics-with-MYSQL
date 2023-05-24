@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from streamlit_option_menu import option_menu
 from numerize.numerize import numerize
-from query import *
+#from query import *
 import time
 
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
@@ -12,8 +12,11 @@ st.markdown("##")
 
 
 #fetch data
-result = view_all_data()
-df=pd.DataFrame(result,columns=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating","id"])
+#result = view_all_data()
+#df=pd.DataFrame(result,columns=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating","id"])
+
+#load excel file
+df=pd.read_excel('data.xlsx', sheet_name='Sheet1')
 
 #side bar
 st.sidebar.image("data/logo1.png",caption="Online Analytics")
