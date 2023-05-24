@@ -51,7 +51,7 @@ df_selection=df.query(
 
 def Home():
     with st.expander("🧭 My Excel WorkBook"):
-        showData=st.multiselect('Filter: ',df_selection.columns,default=[])
+        showData=st.multiselect('Filter: ',df_selection.columns,default=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating"])
         st.dataframe(df_selection[showData],use_container_width=True)
     #compute top analytics
     total_investment = float(df_selection['Investment'].sum())
