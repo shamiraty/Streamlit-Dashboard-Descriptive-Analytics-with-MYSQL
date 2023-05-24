@@ -6,8 +6,6 @@ from numerize.numerize import numerize
 #from query import *
 import time
 
-import plotly.subplots as sp
-import plotly.graph_objects as go
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
 st.subheader("🔔 Online Analytics Dashboard")
 st.markdown("##")
@@ -87,7 +85,6 @@ def Home():
     st.markdown("""---""")
 
 #graphs
-
 def Graphs():
  total_investments = int(df_selection["Investment"].sum())
  average_rating = round(df_selection["Rating"].mean(), 1)
@@ -130,16 +127,11 @@ def Graphs():
     yaxis=(dict(showgrid=False)),
  )
 
- left_column, right_column,center = st.columns(3)
+ left_column, right_column = st.columns(2)
  left_column.plotly_chart(fig_state, use_container_width=True)
  right_column.plotly_chart(fig_investment, use_container_width=True)
 
- #pie chart
- with center:
-  fig = px.pie(df_selection, values='Rating', names='State', title='Regions by Ratings')
-  fig.update_layout(legend_title="Regions", legend_y=0.9)
-  fig.update_traces(textinfo='percent+label', textposition='inside')
-  st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
+
      
 def Progressbar():
     st.markdown("""<style>.stProgress > div > div > div > div { background-image: linear-gradient(to right, #99ff99 , #FFFF00)}</style>""",unsafe_allow_html=True,)
