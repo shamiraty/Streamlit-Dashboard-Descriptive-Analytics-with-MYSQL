@@ -51,8 +51,8 @@ df_selection=df.query(
 
 def Home():
     with st.expander("Tabular"):
-        showData=st.multiselect('Filter: ',df_selection.columns,default=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating","id"])
-        st.dataframe(df_selection[shwdata],use_container_width=True)
+        showData=st.multiselect('Filter: ',df_selection.columns,default=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating"])
+        st.dataframe(df_selection[showData],use_container_width=True)
     #compute top analytics
     total_investment = float(df_selection['Investment'].sum())
     investment_mode = float(df_selection['Investment'].mode())
