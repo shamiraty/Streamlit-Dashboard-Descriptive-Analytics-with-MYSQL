@@ -50,7 +50,7 @@ df_selection=df.query(
 )
 
 def Home():
-    with st.expander("Tabular"):
+    with st.expander("🧭 My Excel WorkBook"):
         showData=st.multiselect('Filter: ',df_selection.columns,default=[])
         st.dataframe(df_selection[showData],use_container_width=True)
     #compute top analytics
