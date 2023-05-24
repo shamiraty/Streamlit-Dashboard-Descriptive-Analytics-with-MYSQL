@@ -20,12 +20,12 @@ with open('style.css')as f:
 #result = view_all_data()
 #df=pd.DataFrame(result,columns=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating","id"])
 
-st.write("Developed and Maintaned by: samir: +255675839840")
+ 
 #load excel file
 df=pd.read_excel('data.xlsx', sheet_name='Sheet1')
 
 #side bar
-st.sidebar.image("data/logo1.png",caption="Online Analytics")
+st.sidebar.image("data/logo1.png",caption="Developed and Maintaned by: samir: +255675839840")
 
 #switcher
 st.sidebar.header("Please filter")
