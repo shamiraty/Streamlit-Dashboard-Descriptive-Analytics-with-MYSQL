@@ -165,11 +165,11 @@ def sideBar():
         default_index=0
     )
  if selected=="Home":
-    st.subheader(f"Page: {selected}")
+    #st.subheader(f"Page: {selected}")
     Home()
     graphs()
  if selected=="Progress":
-    st.subheader(f"Page: {selected}")
+    #st.subheader(f"Page: {selected}")
     Progressbar()
     graphs()
 
