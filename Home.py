@@ -6,6 +6,8 @@ from numerize.numerize import numerize
 #from query import *
 import time
 
+import plotly.subplots as sp
+import plotly.graph_objects as go
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
 st.subheader("🔔 Online Analytics Dashboard")
 st.markdown("##")
