@@ -1,5 +1,5 @@
 [data-testid=metric-container] {
-    box-shadow: 0 0 4px #cccccc;
+    box-shadow: 0 0 4px #000000;
     padding: 10px;
 }
 
@@ -13,5 +13,15 @@
 div[data-testid="stExpander"] div[role="button"] p
 {
     font-size: 1.3rem;
-    color:rgb(235, 238, 238);
+    color:rgb(0, 0, 0);
+}
+
+.sidebar-content {
+    color: white !important;
+}
+
+[data-testid=stSidebar] {
+    font-size:34px;
+    color: white inherit;
+    font-size: larger;
 }

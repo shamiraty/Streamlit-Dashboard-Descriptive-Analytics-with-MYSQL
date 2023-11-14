@@ -5,17 +5,19 @@ from streamlit_option_menu import option_menu
 from numerize.numerize import numerize
 #from query import *
 import time
+from streamlit_extras.metric_cards import style_metric_cards
+st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
-st.subheader("🔔  Analytics Dashboard")
-st.markdown("##")
-
+st.header("BUSINESS ANALYTICS DASHBOARD | INSURANCE DESCRIPTIVE ")
+ 
 theme_plotly = None # None or streamlit
 
 # Style
 with open('style.css')as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html = True)
 
+ 
 #fetch data
 #result = view_all_data()
 #df=pd.DataFrame(result,columns=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating","id"])
@@ -25,10 +27,10 @@ with open('style.css')as f:
 df=pd.read_excel('data.xlsx', sheet_name='Sheet1')
 
 #side bar
-st.sidebar.image("data/logo1.png",caption="Developed and Maintaned by: samir: +255675839840")
+st.sidebar.image("data/logo1.png",caption="Developed by samir: +255675839840")
 
 #switcher
-st.sidebar.header("Please filter")
+
 region=st.sidebar.multiselect(
     "Select Region",
      options=df["Region"].unique(),
@@ -50,7 +52,7 @@ df_selection=df.query(
 )
 
 def Home():
-    with st.expander("⏰ My Excel WorkBook"):
+    with st.expander("VIEW EXCEL DATASET"):
         showData=st.multiselect('Filter: ',df_selection.columns,default=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating"])
         st.dataframe(df_selection[showData],use_container_width=True)
     #compute top analytics
@@ -60,8 +62,7 @@ def Home():
     investment_median= float(df_selection['Investment'].median()) 
     rating = float(df_selection['Rating'].sum())
 
-
-    total1,total2,total3,total4,total5=st.columns(5,gap='large')
+    total1,total2,total3,total4,total5=st.columns(5,gap='small')
     with total1:
         st.info('Total Investment',icon="📌")
         st.metric(label="sum TZS",value=f"{total_investment:,.0f}")
@@ -81,15 +82,19 @@ def Home():
     with total5:
         st.info('Ratings',icon="📌")
         st.metric(label="Rating",value=numerize(rating),help=f""" Total Rating: {rating} """)
+    style_metric_cards(background_color="#FFFFFF",border_left_color="#9900AD",border_color="#1f66bd",box_shadow="#F71938")
 
-    st.markdown("""---""")
+    #variable distribution Histogram
+    with st.expander("⬇ EXPLORATORY VARIABLE DISTRIBUTIONS BY FREQUENCY: HISTOGRAM"):
+     df.hist(figsize=(16,8),color='#00588E', zorder=2, rwidth=0.9,legend = ['Investment']);
+     st.pyplot()
+
+   
 
 #graphs
-
 def graphs():
     #total_investment=int(df_selection["Investment"]).sum()
-    #averageRating=int(round(df_selection["Rating"]).mean(),2)
-    
+    #averageRating=int(round(df_selection["Rating"]).mean(),2) 
     #simple bar graph
     investment_by_business_type=(
         df_selection.groupby(by=["BusinessType"]).count()[["Investment"]].sort_values(by="Investment")
