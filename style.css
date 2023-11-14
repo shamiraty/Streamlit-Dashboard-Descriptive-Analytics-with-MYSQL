@@ -17,7 +17,7 @@ div[data-testid="stExpander"] div[role="button"] p
 }
 
 .sidebar-content {
-    color: white !important;
+    color: white;
 }
 
 [data-testid=stSidebar] {
