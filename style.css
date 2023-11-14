@@ -20,9 +20,4 @@ div[data-testid="stExpander"] div[role="button"] p
     color: white;
 }
 
-[data-testid=stSidebar] {
-    background-color: #04212C;
-    font-size:34px;
-    color: white;
-    font-size: larger;
-}
+
