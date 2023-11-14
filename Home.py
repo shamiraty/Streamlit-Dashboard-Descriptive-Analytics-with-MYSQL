@@ -9,7 +9,7 @@ from streamlit_extras.metric_cards import style_metric_cards
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
-st.header("BUSINESS ANALYTICS DASHBOARD | INSURANCE DESCRIPTIVE ")
+st.header("BUSINESS  DASHBOARD | INSURANCE DESCRIPTIVE ANALYTICS ")
  
 theme_plotly = None # None or streamlit
 
