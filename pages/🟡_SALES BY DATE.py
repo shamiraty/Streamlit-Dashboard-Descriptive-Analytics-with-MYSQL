@@ -5,13 +5,17 @@ import seaborn as sns
 import altair as alt
 from UI import *
 from matplotlib import pyplot as plt
+from datetime import date, timedelta
 #pip install streamlit-extras
 #https://pypi.org/project/streamlit-extras/
 from streamlit_extras.dataframe_explorer import dataframe_explorer
 
 
 #page layout
-st.set_page_config(page_title="Analytics", page_icon="🌎", layout="wide")
+st.set_page_config(page_title="Sales", page_icon="🌎", layout="wide")
+
+st.header("SALES ANALYTICS KPI  &  TRENDS  | DESCRIPTIVE ")
+st.write("Pick a date range from sidebar to view sales trends | the default date is today")
 
 #streamlit theme=none
 theme_plotly = None 
@@ -19,16 +23,18 @@ theme_plotly = None
 # load CSS Style
 with open('style.css')as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html = True)
-
+    
+#load user interface file
 UI()
+
 #load dataset
 df = pd.read_csv('sales.csv')
 
-st.sidebar.image("data/logo1.png")
-#filter date to view data
+
+#filter date to view sales
 with st.sidebar:
  st.title("Select Date Range")
- start_date=st.date_input(label="Start Date",)
+ start_date=st.sidebar.date_input("Start Date",date.today()-timedelta(days=365*4))
 
 with st.sidebar:
  end_date=st.date_input(label="End Date")
@@ -37,23 +43,18 @@ st.error("Business Metrics between[ "+str(start_date)+"] and ["+str(end_date)+"]
 #compare date
 df2 = df[(df['OrderDate'] >= str(start_date)) & (df['OrderDate'] <= str(end_date))]
 
- 
-
 #dataframe
 with st.expander("Filter Excel Dataset"):
  filtered_df = dataframe_explorer(df2, case=False)
  st.dataframe(filtered_df, use_container_width=True)
 
-
 b1, b2=st.columns(2)
-
-#bar chart
 with b1:  
  from add_data import *
  st.subheader('Add New record to Excel File',)
+ #this function is called from another file named 'add_data.py' file  
  add_data()
 
- 
  #metric cards
  with b2:
     st.subheader('Dataset Metrics',)
@@ -67,8 +68,7 @@ with b1:
     col22.metric(label="Minimum Price  USD:", value= f"{ df2.TotalPrice.min():,.0f}",delta="Low Price")
     col33.metric(label="Total Price Range  USD:", value= f"{ df2.TotalPrice.max()-df2.TotalPrice.min():,.0f}",delta="Annual Salary Range")
     #style the metric
-    style_metric_cards(background_color="#FFFFFF",border_left_color="#9900AD",border_color="#1f66bd",box_shadow="#F71938")
-
+    style_metric_cards(background_color="#FFFFFF",border_left_color="#686664",border_color="#000000",box_shadow="#F71938")
 
 #dot Plot
 a1,a2=st.columns(2)
@@ -115,7 +115,6 @@ with p1:
  sns.scatterplot(data=df2, x=feature_x, y=feature_y, hue=df2.Product, ax=ax)
  st.pyplot(fig)
 
-
 with p2:
  st.subheader('Products & Qantities',)
  source = pd.DataFrame({
@@ -128,7 +127,7 @@ with p2:
         y=alt.Y("Product:N", sort="-x")
     )
  st.altair_chart(bar_chart, use_container_width=True,theme=theme_plotly)
-
+st.sidebar.image("data/logo1.png")
 
  
 
