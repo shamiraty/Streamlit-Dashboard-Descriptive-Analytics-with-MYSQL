@@ -193,9 +193,9 @@ fig2 = go.Figure(
     layout=go.Layout(
         title=go.layout.Title(text="BUSINESS TYPE BY QUARTILES OF INVESTMENT"),
         plot_bgcolor='rgba(0, 0, 0, 0)',  # Set plot background color to transparent
-        paper_bgcolor='rgba(0, 0, 0, 0)',  # Set paper background color to transparent
-        xaxis=dict(showgrid=True, gridcolor='#cecdcd'),  # Show x-axis grid and set its color
-        yaxis=dict(showgrid=True, gridcolor='#cecdcd'),  # Show y-axis grid and set its color
+        #paper_bgcolor='rgba(0, 0, 0, 0)',  # Set paper background color to transparent
+        #xaxis=dict(showgrid=True, gridcolor='#cecdcd'),  # Show x-axis grid and set its color
+        #yaxis=dict(showgrid=True, gridcolor='#cecdcd'),  # Show y-axis grid and set its color
         font=dict(color='#cecdcd'),  # Set text color to black
     )
 )
