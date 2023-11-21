@@ -60,11 +60,11 @@ def Home():
         showData=st.multiselect('Filter: ',df_selection.columns,default=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating"])
         st.dataframe(df_selection[showData],use_container_width=True)
     #compute top analytics
-    total_investment = float(pd.Series(df_selection['Investment']).sum())
-    investment_mode = float(pd.Series(df_selection['Investment']).mode())
-    investment_mean = float(pd.Series(df_selection['Investment']).mean())
-    investment_median= float(pd.Series(df_selection['Investment']).median()) 
-    rating = float(pd.Series(df_selection['Rating']).sum())
+    total_investment = float(pd.Series.iloc(df_selection['Investment']).sum())
+    investment_mode = float(pd.Series.iloc(df_selection['Investment']).mode())
+    investment_mean = float(pd.Series.iloc(df_selection['Investment']).mean())
+    investment_median= float(pd.Series.iloc(df_selection['Investment']).median()) 
+    rating = float(pd.Series.iloc(df_selection['Rating']).sum())
 
 
     total1,total2,total3,total4,total5=st.columns(5,gap='small')
