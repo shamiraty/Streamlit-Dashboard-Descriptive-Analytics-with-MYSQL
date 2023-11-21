@@ -14,7 +14,7 @@ from streamlit_extras.metric_cards import style_metric_cards
 #navicon and header
 st.set_page_config(page_title="Dashboard", page_icon="📈", layout="wide")  
 
-st.header("PREDICTIVE ANALYTICS DASHBOARD")
+st.header("PREDICTIVE ANALYTICS WEB DASHBOARD")
 st.image("data/logo2.webp",caption="")
 st.write("MULTIPLE REGRESSION WITH  SSE, SE, SSR, SST, R2, ADJ[R2], RESIDUAL")
 st.success("The main objective is to measure if Number of family dependents and Wives may influence a person to supervise many projects")

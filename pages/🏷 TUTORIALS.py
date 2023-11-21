@@ -4,7 +4,7 @@ st.set_page_config(page_title="Tutorials", page_icon="📈", layout="wide")
 
 with open('style.css')as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html = True)
-    
+st.header("VIDEO TUTORIALS")  
 with st.expander("🏷 Analytics Web application Multiple Linear Regression Web Project"):
  if st.button("Watch Video 1"):
     st.markdown("[OPEN](https://youtu.be/VeP0c-ZPkD8)")

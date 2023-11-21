@@ -5,7 +5,7 @@ import numpy as np
 from streamlit_extras.metric_cards import style_metric_cards 
 
 st.set_page_config(page_title="Dashboard ", page_icon="📈", layout="wide")  
-st.header("PERCENTILES, NUMBER SUMMARY FOR CATEGORICAL DATA")
+st.header("PERCENTILES AND NUMBER SUMMARY FOR CATEGORICAL DATA")
 st.markdown("##")
  
 with open('style.css')as f:

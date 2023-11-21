@@ -22,7 +22,7 @@ def add_data():
     quantity=col222.number_input("quantity")
     unitprice=col333.number_input("unitprice")
     
-    #Button
+    #form Button 
     btn=st.form_submit_button("Save Data To Excel", type="primary")
 
     #if btn is clicked

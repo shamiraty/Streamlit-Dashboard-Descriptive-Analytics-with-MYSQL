@@ -14,7 +14,7 @@ from streamlit_extras.dataframe_explorer import dataframe_explorer
 #page layout
 st.set_page_config(page_title="Sales", page_icon="🌎", layout="wide")
 
-st.header("SALES ANALYTICS KPI  &  TRENDS  | DESCRIPTIVE ")
+st.header("SALES  KPI  &  TRENDS  | DESCRIPTIVE WEB ANALYTICS  ")
 st.write("Pick a date range from sidebar to view sales trends | the default date is today")
 
 #streamlit theme=none

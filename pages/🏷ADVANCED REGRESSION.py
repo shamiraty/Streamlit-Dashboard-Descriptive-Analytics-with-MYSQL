@@ -36,12 +36,6 @@ st.markdown(
   </div>
 </div>
 </div>
- <style>
-    [data-testid=stSidebar] {
-         color: white;
-         text-size:24px;
-    }
-</style>
 """,unsafe_allow_html=True
 )
 

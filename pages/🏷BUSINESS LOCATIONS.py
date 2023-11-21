@@ -35,7 +35,7 @@ df=load_df.query("Name==@name ")
 #load dataset
 
 try:
- st.header("BUSINESS TRENDS BY GEO-REFERENCING ")
+ st.header("BUSINESS TRENDS BY GEO-REFERENCING BUSINESS LOCATIONS")
  items= load_df['Name'].count()
  total_price= float(load_df['TotalPrice'].sum())
 
